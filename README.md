@@ -13,3 +13,7 @@ Revisão de PHP do 3º ano: formulário de contatos com cadastro e listagem em M
 ```bash
 php -S localhost:8000
 ```
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
