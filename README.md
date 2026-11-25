@@ -1,2 +1,15 @@
-# revisao-php-303
- Revisão de PHP do terceiro ano TIPI.
+# Revisão de PHP
+
+**IFAC · Técnico em Informática para Internet (TIPI)** · 3º ano · 2023
+
+Revisão de PHP do 3º ano: formulário de contatos com cadastro e listagem em MySQL.
+
+| Arquivo | |
+|---|---|
+| `index.php`, `form.php` | Formulário |
+| `cadastro.php` | Grava o contato no banco |
+| `mostrar-contatos.php` | Lista os contatos cadastrados |
+
+```bash
+php -S localhost:8000
+```
